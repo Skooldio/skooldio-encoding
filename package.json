@@ -1,0 +1,25 @@
+{
+  "name": "encoding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Skooldio/skooldio-encoding.git"
+  },
+  "keywords": [
+    "encoding"
+  ],
+  "author": "developers@skooldio.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skooldio/skooldio-encoding/issues"
+  },
+  "homepage": "https://github.com/Skooldio/skooldio-encoding#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
